@@ -1,0 +1,4 @@
+project=melme
+architecture=container
+test=minitest
+template=erb
